@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c17d09698720cd1fd3c9ea10c6d83cb",
+    "revision": "45e6a66c837fec9c348616f758368707",
     "url": "/BOX_OFFICE_APP/index.html"
   },
   {
-    "revision": "f2c2cf226edc8f1f0f58",
+    "revision": "908069ffe699442b319d",
     "url": "/BOX_OFFICE_APP/static/css/main.93052401.chunk.css"
   },
   {
-    "revision": "e2b221a825ebc1d44cae",
-    "url": "/BOX_OFFICE_APP/static/js/2.b0bbba38.chunk.js"
+    "revision": "b0d26fa0296212177b6f",
+    "url": "/BOX_OFFICE_APP/static/js/2.22eeb1a8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/BOX_OFFICE_APP/static/js/2.b0bbba38.chunk.js.LICENSE.txt"
+    "url": "/BOX_OFFICE_APP/static/js/2.22eeb1a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2c2cf226edc8f1f0f58",
-    "url": "/BOX_OFFICE_APP/static/js/main.3e5f3d40.chunk.js"
+    "revision": "908069ffe699442b319d",
+    "url": "/BOX_OFFICE_APP/static/js/main.bd41f398.chunk.js"
   },
   {
     "revision": "c85dd48e400889cdc619",
