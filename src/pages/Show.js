@@ -1,5 +1,5 @@
-/* eslint-disable import/no-duplicates */
 /* eslint-disable no-underscore-dangle */
+/* eslint-disable import/no-duplicates */
 import React, { useEffect, useReducer } from 'react';
 import { useParams } from 'react-router-dom';
 import { apiGet } from '../misc/config';
